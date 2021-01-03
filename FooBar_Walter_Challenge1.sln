@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FooBar_Walter_Challenge1", "FooBar_Walter_Challenge1.pyproj", "{F7950AB3-243A-4ADC-AB5B-202D2D664D93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7950AB3-243A-4ADC-AB5B-202D2D664D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7950AB3-243A-4ADC-AB5B-202D2D664D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00FE8124-5A37-43C6-A40A-3937D67FEBD7}
+	EndGlobalSection
+EndGlobal
